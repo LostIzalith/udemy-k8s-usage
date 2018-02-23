@@ -1,0 +1,3 @@
+rootProject.name = 'udemy-k8s-usage'
+
+include 'greeting'
